@@ -13,3 +13,5 @@ logs/
 *.ckpt
 *.safetensors
 data/
+
+tmp/
